@@ -4,8 +4,6 @@ title: Comment Policy
 permalink: /comment-policy/
 ---
 
-# **Dr. History X Comment Policy**  
-
 At **Dr. History X**, we encourage thoughtful discussions and debates about history. To keep our comment section respectful and engaging, we ask all participants to follow these guidelines:  
 
 ### **1. Stay on Topic**  
