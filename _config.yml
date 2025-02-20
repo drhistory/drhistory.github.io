@@ -20,9 +20,9 @@
 
 # From Minima-3.0 onwards, site.author is expected to be a mapping of attributes instead
 # of a simple scalar value:
-author:
-  name: Dr History X
-  email: "doctor.history.x@gmail.com"
+#author:
+#  name: Dr History X
+#  email: "doctor.history.x@gmail.com"
 title: Dr History X
 email: doctor.history.x@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
