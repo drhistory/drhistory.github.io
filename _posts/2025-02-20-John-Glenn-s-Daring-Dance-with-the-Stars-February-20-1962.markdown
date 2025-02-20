@@ -2,7 +2,7 @@
 layout: post
 title:  "John Glenn's Daring Dance with the Stars – February 20, 1962"
 date:   2025-02-20 17:01:45 +01:00
-categories: history 1962 "United States"
+categories: history 1962 united-states
 ---
 **TLDR;**
 - **Event**: On February 20, 1962, John Glenn became the first American to orbit the Earth aboard the Friendship 7 spacecraft.
