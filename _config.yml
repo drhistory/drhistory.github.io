@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# From Minima-3.0 onwards, site.author is expected to be a mapping of attributes instead
+# of a simple scalar value:
+author:
+  name: Dr History X
+  email: "doctor.history.x@gmail.com"
 title: Dr History X
 email: doctor.history.x@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,11 +30,33 @@ description: >- # this means to ignore newlines until "baseurl:"
   that happened on this exact same date.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "drhistoryx.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# From Minima-3.0 onwards, the social media data is sourced from config key minima.social_links.
+# It is a list of key-value pairs, each entry corresponding to a link rendered in the footer.
+# For example, to render links to Jekyll GitHub repository and Twitter account (now X), one should have:
+minima:
+  social_links:
+    # - title: Jekyll repository at GitHub
+    #   icon: github
+    #   url: "https://github.com/jekyll/jekyll"
+    - title: Dr History X at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/DrHistoryX"
 twitter_username: DrHistoryX
 # github_username:  jekyll
 
+# Enabling comments (via Disqus)
+# Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
+# ⚠️ url, e.g. https://example.com, must be set in you config file for Disqus to work.
+# To enable it, after setting the url field, you also need to add the following lines to your Jekyll site:
+disqus:
+  shortname: drhistoryx
+
+
 # Build settings
 theme: minima
+minima:
+  skin: auto
 plugins:
   - jekyll-feed
 
