@@ -26,4 +26,4 @@ Despite the odds, Glenn's calm demeanor and the expertise of the NASA team ensur
 
 The legacy of John Glenn's flight endures, a testament to human courage and the relentless pursuit of exploration.
 
-**Would you have had the courage to embark on such a perilous journey into the unknown?**
+|**Would you have had the courage to embark on such a perilous journey into the unknown?**|
