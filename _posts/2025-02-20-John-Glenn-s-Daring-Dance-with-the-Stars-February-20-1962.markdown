@@ -12,6 +12,8 @@ categories: history 1962 united-states
 
 --
 
+## Story
+
 The roar of the Atlas rocket was deafening, a symphony of power and ambition that shook the very ground of Cape Canaveral. Inside the cramped confines of the Friendship 7 spacecraft, John Glenn felt the immense force pressing him back into his seat. His heart raced with the thrill of the unknown as he embarked on a journey that would etch his name into the annals of history.
 
 ![Image](/assets/images/20_February_50061bd9822d67474425afa301db9f57.png)
