@@ -16,7 +16,7 @@ categories: history 1815 "france"
 
 The sea was calm as the small ship approached the French coast, but the air was electric with anticipation. Onboard, a figure cloaked in a grey overcoat and a familiar bicorne hat stood at the prow, eyes fixed on the land he once ruled. Napoleon Bonaparte was coming home, and with him, the fate of Europe hung in the balance.
 
-(new! Checkout our first video! https://youtube.com/shorts/KvTaahorhok)
+(new! Checkout our first video! [https://youtube.com/shorts/KvTaahorhok](https://youtube.com/shorts/KvTaahorhok))
 ![Image](/assets/images/01_March_5800b05a672bf77a0dea3b647e702c1e.png)
 
 Exiled to the island of Elba after his abdication in 1814, Napoleon had been a lion in a cage, restless and plotting. The Bourbon monarchy, restored in his absence, was weak and unpopular. Sensing an opportunity, Napoleon made his move. On March 1, 1815, he landed at Golfe-Juan, a small port near Antibes on the French Riviera, with a small band of loyal followers, determined to reclaim his empire.
